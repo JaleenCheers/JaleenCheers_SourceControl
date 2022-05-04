@@ -1,0 +1,28 @@
+1. VisualStudio.gitignore
+https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
+.gitignore is very useful, as it tells the computer what files, classes, etc. can be ignored to improve perfomance. It aslo comes with ways for the developer to manually ignore files,
+like if they were to end a file name with a tilde(~). It also contains many different rules to determine what to ignore, and come with glob patterns which can affect how you interact
+with the working tree, such as an (!) to negate it.
+
+2. BO1-Reimagined
+https://github.com/Jbleezy/BO1-Reimagined
+I was interested in this repositories because I love black ops zomebies, and I wanted to see stuff the community has done to it after all these years later.They basically went in
+and tweaked all of the features like decreasing round intermission time and making you have to hold buttons for all events instead of pressing, which these were annoying back in my day of playing
+the game. They also put in their own fun changes like removing fall damage, insta-killing zombies, and increased movement see. It's nice to see that people can still have fun with
+old games by making their own little changes to it. 
+
+
+3. Developer-handbook
+https://github.com/apptension/developer-handbook
+I looked into this repository because it was recommened for beginners to source control and somewhat coding in general. It basically is an all-level guide on how to build a website
+or mobile app. I would like to look into it and see if I could create some simple stuff for the time being. 
+
+4. WebFiundamentals
+https://github.com/google/WebFundamentals
+Even though I'm in game development, I've always wanted to make a website. This repository has more of the fundementals to web building than the previous one did and good practices
+used in the field. I plan to use this knowledge to have a good website, that has friendly UI, and helps people interact with some projects I work on in the future.
+
+5. TrinityCore
+https://github.com/TrinityCore/TrinityCore
+I was interested in this repository because MMO's are my favorite genre of game. This repository, however, is mostly based in c++. I tend to struggle with so I really wanted to 
+make sure I was understanding what I could while going through this one to the best of my ability. This helps optimize game the codebase while improving ingame quality.
